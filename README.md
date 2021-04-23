@@ -11,3 +11,4 @@ Contains the scripts for DevOps Technical Interview
   * Could you please tell us what the Dockerfile does.
   * What issues do you see with the Dockerfile?
   * What improvements would you make to the Dockerfile?
+  * How would you ensure that the resulting image works as you expect?
